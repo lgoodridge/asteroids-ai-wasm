@@ -1,6 +1,6 @@
 # Asteroids AI WASM
 
-A [Rust](https://www.rust-lang.org/) / [WASM](https://webassembly.org/) implementation of Asteroids, and several Neural Network algorithms to play it.
+A [Rust](https://www.rust-lang.org/) and [WebAssembly](https://webassembly.org/) implementation of Asteroids, and several Neural Network algorithms to play it.
 
 This project is the spiritual successor to a previous, python-based [Asteroids AI](https://github.com/lgoodridge/Asteroids-AI) project.
 

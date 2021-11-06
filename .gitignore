@@ -1,0 +1,13 @@
+# Temp Files
+.*.sw*
+
+# Rust
+target/
+**/.*.rs.bk
+
+# Other Files
+notes/
+tmp/
+research.txt
+todo.txt
+.DS_Store
